@@ -1,0 +1,48 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic);
+
+body{
+	font-family: 'Roboto', sans-serif;
+}
+h1,h2,h3,h4,h5,p,a,span{
+	font-family: 'Roboto', sans-serif;
+}
+header{
+	background: #339966;
+	height: 70px;
+	color:#fff;
+}
+
+.header{
+	margin:0;
+	text-align:center;
+	padding:20px 0;
+	width:100%;
+	background:#339966;
+	color:#fff;
+}
+a{text-decoration: none;color: #fff;}
+header p{padding-top:20px;}
+footer{
+	background: #339966;
+	height: 100px;
+	color:#fff;
+}
+footer p{padding-top:50px;}
+.image{
+	padding-top:10%;
+	height: 453px;
+}
+.intro{
+	padding-top:100px;
+	text-align:center;
+}
+.question{min-height: 403px; padding-bottom: 20px;}
+.result-logo{margin-left: 42%;margin-top:1.6%;}
+.result-logo1{margin-left: 55%;}
+.result-container{margin-left: 40%;margin-top:1%; color:#684B68;}
+.logout{padding-top:100px;}
+.next{margin-left:200px;}
+.answer{color:green;font-weight: 300;font-size: larger; }
+.result{height: 452px;}
+#timer{ float:right;padding: 5px 20px 0 0;}
+.already{text-align:center;}
